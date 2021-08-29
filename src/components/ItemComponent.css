@@ -1,0 +1,25 @@
+.item_list {
+    margin: 2rem auto
+}
+
+.item_card {
+    padding: 2rem;
+    width: 90%;
+    margin: auto;
+}
+
+.item_details h2{
+    padding-top: 1rem;
+    color: rgb(20, 26, 38);
+    font-size: large;
+}
+
+.item_details h3{
+    color: rgb(126, 0, 38);
+    font-size: medium;
+}
+
+.item_details h4{
+    color: rgb(194, 43, 78);
+    font-size: small;
+}
